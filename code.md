@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
+     
+    <title>_himanshu_325</title>
+    <style>
+	body
+	{
+	background-color:#2b2727;
+	text-color:#36b53b;
+	}
+	
+
+@keyframes example {
+  0%   {background-color:#876B3F; }
+  30%  {background-color:#d49e0b;  }
+  60%  {background-color:#3E2B18;  }
+  100%  {background-color:#000000; }
+ }
+ .test
+ {
+ background-image:url('https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif');
+ width:'100%';
+ height:'auto';
+ }
+
+
+.div1 {
+  width: auto;
+  height: auto;
+  position: relative;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 7s;
+  animation-iteration-count:infinite;
+  transition-property: width;
+  box-shadow:4px 4px white;
+}
+#h
+{
+color:red;
+text-shadow:4px ;
+}
+.div2
+{
+width:auto;
+padding:10px;
+line-height:30px;
+height:auto;
+color:#36b53b;
+background-color:#000000;
+}
+ </style>	
+  </head>
+  <body>
+  <h2 align='center' style='color:red' >
+  <span style='font-size:50px' >  HIMANSHU</span>
+  <small class='text-muted'>#JAMESBOND007</small>
+  <img src='logo.png' width='90px' heiht='90px'>
+  <br>
+  <nav align='center'>
+  <a href='https://github.com/himanshu007-creator' target='new'><img  src='gthb.png' height='30px' width='30px'></a>&nbsp;
+  <a href='https://www.instagram.com/_himanshu_325/' target='new'><img  src='ig.png' height='30px' width='30px'></a>
+</nav>
+  </h2>
+ 
+  <div align='center' class='alert alert-primary alert-dismissable fade show div2'>
+  <strong>BHAGWAN KO MANTE HO?</strong>
+  <button type='close' data-dismiss='alert' aria-label='Close'>
+  <span aria-hidden='true'>&times;</span>
+  </div>
+  <div class='div1' align='center'>
+  <img src='sg.gif' height='412px' width='412px' style='z-index:2'>
+  <br>
+  <br>
+  <h2 style='z-index:1 position:absolute'>ABOUT</h2>
+  
+
+  </div>
+  <hr>
+ <div class='div2' >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et diam eget felis aliquam sodales sed eget arcu. Nam sodales egestas massa, id fringilla ex efficitur sit amet. Curabitur id metus sit amet sapien euismod porta. Suspendisse risus nulla, iaculis vel gravida vitae, tincidunt quis justo. Cras quis leo diam. Aliquam nisl leo, interdum eget ipsum eget, blandit lacinia metus. Mauris nisl justo, auctor vel dolor eu, lacinia vulputate arcu. Proin vitae arcu ut eros vulputate efficitur sit amet in nisl. Ut rutrum nunc id dolor sodales tincidunt.
+
+Fusce eu neque fringilla, blandit turpis vel, pulvinar mi. Donec rhoncus urna neque. Nulla placerat, lorem ut efficitur mollis, leo nibh tincidunt quam, eu mattis orci mi id eros. Nunc nibh odio, auctor quis imperdiet a, suscipit non mauris. Pellentesque venenatis nibh non risus malesuada dignissim. Mauris id sapien et tellus tincidunt scelerisque. Suspendisse vestibulum id tellus vel faucibus. Sed feugiat placerat massa id ornare. Sed eu metus cursus, finibus lorem at, mattis ex. Sed condimentum eleifend pharetra. In ut massa ut metus aliquet porttitor. Aenean tincidunt molestie sapien, et ullamcorper nibh dapibus non. Fusce eu eros quis est ullamcorper ullamcorper quis id lectus.
+
+Sed fringilla erat diam, quis convallis nibh mattis sit amet. Phasellus tincidunt neque ac ullamcorper fringilla. Nulla mauris nulla, tempor vel volutpat sed, dapibus dapibus diam. Vestibulum pulvinar varius sapien quis scelerisque. Morbi in lectus in metus varius maximus. Phasellus ut lacinia orci, maximus suscipit purus. Praesent ornare erat sit amet dictum cursus. Aliquam tristique justo id leo ullamcorper, non efficitur orci finibus. Duis condimentum leo a sem consectetur commodo. Pellentesque elit leo, finibus ut sapien sit amet, rutrum vulputate nisl. In hac habitasse platea dictumst.
+
+Nam condimentum augue sit amet sapien pellentesque, sed feugiat tellus ultrices. Curabitur vestibulum venenatis massa, non fringilla lectus faucibus sit amet. Maecenas eleifend sapien lectus, sed placerat elit tincidunt a. Phasellus vehicula semper orci eu euismod. Nam sollicitudin erat massa, eget lacinia nisl viverra ut. Etiam eget ipsum orci. Nam et dapibus sapien. Duis sagittis nibh condimentum tincidunt ultricies. Sed fermentum urna mollis, consequat mi vitae, dapibus sem. Proin ut elit ut augue fringilla consectetur a non velit. Pellentesque luctus ex massa, ac consectetur nibh ultricies id. Duis et massa consequat, ornare justo vel, laoreet risus. Duis orci dui, convallis nec tincidunt quis, lacinia sit amet ex.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi orci mauris, imperdiet at quam nec, pellentesque tincidunt urna. Morbi sit amet mi nulla. Proin sagittis, mi sed eleifend consequat, nulla lacus suscipit sapien, vitae sagittis erat nunc in elit. Quisque semper lacinia nisl sed tempor. Integer tincidunt lacus vitae nulla tristique, ut feugiat sem eleifend. Donec et eros eleifend ante euismod pellentesque. Maecenas ac nunc eu turpis dictum malesuada et nec tellus. Aliquam ultrices ante quis neque tempus, laoreet ultricies turpis semper. Suspendisse ac sem mollis, iaculis lectus ut, accumsan ligula. Nullam vitae mauris tempor nunc ultricies tempor ac id lectus. In hac habitasse platea dictumst. Suspendisse lobortis imperdiet semper. Vestibulum facilisis nec massa in vehicula. Pellentesque sollicitudin cursus luctus. Vivamus nec purus nibh.
+
+Vestibulum finibus massa id laoreet sollicitudin. Ut luctus lacus lobortis risus gravida, sit amet porta nulla lacinia. Curabitur non augue a ligula suscipit auctor eget sit amet justo. Maecenas mi arcu, viverra id metus eu, rutrum imperdiet nulla. Etiam ac hendrerit augue. Praesent varius feugiat elit, quis consectetur nibh laoreet non. Proin ac elit semper, tempus turpis ac, luctus ligula. Suspendisse et leo mi. Pellentesque porta sollicitudin orci. Vivamus pellentesque velit vitae dui cursus rutrum. Suspendisse tincidunt, enim non iaculis ullamcorper, justo nibh volutpat urna, nec vehicula est odio sit amet turpis. Vestibulum feugiat sed ante in suscipit.
+
+Donec at arcu lobortis, ornare elit a, malesuada massa. Aliquam tincidunt leo velit, quis accumsan enim interdum non. Ut id metus mauris. Aenean vel placerat orci. Proin ultricies, dui volutpat auctor porta, justo quam tempor tortor, nec fringilla est velit vel quam. Etiam aliquet et risus non maximus. Vivamus mauris massa, suscipit id interdum non, varius non nisl. Vestibulum lorem dui, blandit vitae faucibus finibus, placerat quis elit. Sed lacinia, urna sit amet eleifend euismod, dui justo ultricies diam, et condimentum odio quam quis magna. Nunc a tortor risus. Mauris viverra convallis est a laoreet. Nullam dignissim in mauris sit amet fringilla. Proin quis justo dictum, aliquet lectus id, commodo metus. Donec ultrices convallis ipsum dictum sollicitudin. Morbi quis ultrices odio, sit amet molestie dui.
+
+Praesent eget augue molestie nunc consequat dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam posuere interdum interdum. Aliquam erat volutpat. Donec fringilla luctus enim nec vulputate. Vivamus et magna ipsum. Proin mi nulla, aliquet sit amet aliquam ornare, consectetur in nibh. Etiam aliquam lacus vel tellus pellentesque venenatis. Sed quis est vestibulum, auctor lacus at, lacinia nulla.
+
+Vivamus tincidunt pellentesque commodo. Integer quis mattis eros, a fringilla lorem. Phasellus scelerisque sagittis facilisis. Ut maximus libero condimentum eleifend dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec commodo sapien id lacus eleifend auctor. Pellentesque interdum auctor magna quis tempor. Nam tristique orci et lacinia gravida. Nullam id urna massa. Quisque porttitor nulla tristique nisi facilisis, vel ultricies purus vestibulum. Aenean luctus enim vel orci dignissim bibendum placerat eget urna. Fusce a blandit augue.
+
+Morbi nec lobortis ipsum, et fringilla neque. Aenean auctor nibh sit amet rhoncus semper. Donec lobortis nisl libero, in viverra eros pharetra vel. Quisque leo felis, placerat id diam ut, tincidunt viverra libero. Morbi hendrerit elit est, ac efficitur neque eleifend quis. Sed quis augue feugiat, elementum libero ac, facilisis urna. Aenean sit amet nibh odio. Maecenas quis ligula dapibus, viverra neque eu, tincidunt sem. Nam id dui tempus, fringilla odio eget, feugiat turpis. Maecenas eget nunc vel nibh feugiat dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam ultrices nisl et justo sagittis consectetur. Vivamus lobortis neque ac lacus dictum vulputate sed non ante. Proin at nulla a lectus lacinia lobortis eget at urna. Nam vel faucibus nisl, sit amet volutpat augue.
+
+Praesent commodo, diam id condimentum eleifend, metus magna fringilla sapien, vel faucibus elit orci eget tellus. Sed eu sodales leo, non egestas lacus. Phasellus viverra nulla eget convallis ullamcorper. Cras mattis nibh sed ligula congue fermentum. Vestibulum fringilla risus ac elementum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec at volutpat neque.
+
+Donec vel ex purus. Etiam lacus nisl, sodales fringilla neque quis, varius cursus nunc. Integer porta, diam vitae lacinia convallis, odio nunc fermentum massa, nec facilisis tortor sem vitae neque. Aliquam vel tortor ut risus posuere pellentesque. Nullam condimentum elementum nisi, ut elementum diam lacinia tincidunt. Nullam volutpat, enim id rutrum dignissim, magna ante tincidunt libero, nec commodo tortor lacus sit amet nibh. Praesent ut massa at lorem tempor finibus sagittis non nibh. Aenean id elit non nisl interdum varius ac vel erat. Donec vitae odio mollis, ullamcorper ligula sit amet, vehicula urna. Sed risus diam, imperdiet nec auctor sit amet, pharetra sed mauris. Phasellus hendrerit dui volutpat, maximus lacus vel, pulvinar lectus. Curabitur vitae lectus eget urna porttitor convallis. Ut eget molestie ipsum, et faucibus neque.
+
+Pellentesque at lacus felis. Vestibulum feugiat nibh ac justo lacinia mattis. Sed rhoncus dignissim molestie. Donec lacinia felis ac lorem lobortis, non mollis velit hendrerit. Morbi risus lorem, tempor in urna nec, consequat consectetur dolor. Suspendisse dictum dui id nisl suscipit, ut vehicula magna sollicitudin. Pellentesque nec placerat diam, a semper nunc. Sed et gravida leo, non congue metus.
+
+Donec dapibus augue eros, id vehicula odio aliquam sit amet. Proin vulputate purus massa, non iaculis nibh volutpat ut. Quisque et gravida risus. Integer id libero vitae mauris ornare gravida eu nec mauris. Aenean dictum tempus pellentesque. Ut elit purus, vulputate nec interdum sit amet, maximus finibus diam. Curabitur nec quam ipsum. Vivamus quis nibh convallis, dignissim massa commodo, dignissim erat. Nulla tincidunt felis purus, ut malesuada risus commodo eget. Sed vitae lacinia est, in interdum lacus.
+
+Curabitur eu lectus eu nisi pulvinar luctus sit amet vitae elit. Nullam vel elit sit amet orci tempor rutrum. Nam est neque, aliquam sit amet consequat nec, fermentum at arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam tellus dolor, ullamcorper finibus porttitor vitae, finibus eget nisi. Nunc arcu ligula, lobortis ac suscipit ut, pulvinar sit amet tortor. Sed ultricies sed velit quis porttitor. In placerat congue tellus, quis elementum dui dignissim a. In lobortis lacinia facilisis.
+
+Nunc quis nisi a ligula lobortis commodo. Donec vitae ligula quam. Curabitur eu condimentum mauris, at dictum ipsum. Vivamus consectetur, nisi nec finibus ultricies, leo magna iaculis nisi, id maximus metus nulla in enim. Phasellus nisi nibh, tempor at dui porta, lobortis sodales nisi. Fusce ac hendrerit odio. Vestibulum vel varius augue. Donec iaculis enim eros, eu volutpat lorem consectetur id. Nunc ut lectus dolor. Nullam id porta tellus, in molestie enim. Vivamus id arcu sit amet nulla volutpat suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum vestibulum ullamcorper erat, eget scelerisque odio vulputate ac. Vestibulum et enim scelerisque augue gravida rutrum a non tortor. Morbi placerat neque eu purus sagittis, eu finibus neque laoreet. Duis ut sapien lobortis, auctor massa ac, rutrum magna.
+
+Phasellus ac massa turpis. Quisque et rhoncus leo. Maecenas ultricies, augue a congue porta, ligula enim placerat dui, eget lacinia orci mi et tortor. Nulla ultricies tempus ipsum. Nulla in tortor leo. Sed ac sem diam. Donec ultrices nisl quis orci tincidunt, ut mollis nibh convallis. Suspendisse dignissim aliquam orci, eu pretium lacus dignissim nec.
+
+Aliquam vulputate justo at enim dictum, varius pulvinar nunc dapibus. Quisque ex tortor, consequat at vulputate sit amet, ultrices vel mi. Aliquam cursus rutrum augue, vel ornare nunc ultrices nec. Proin lobortis sodales laoreet. Nam nisi lectus, elementum id libero quis, interdum lacinia purus. Fusce nulla nulla, blandit eget condimentum sit amet, pulvinar et ipsum. Praesent malesuada neque purus, quis ullamcorper massa pharetra eu. Cras et libero non massa scelerisque rutrum in ut orci. Proin libero ipsum, pulvinar ut sem sit amet, pulvinar feugiat lorem. Phasellus pulvinar neque at dui dictum, sit amet laoreet neque posuere. Morbi ut urna lacinia, dapibus sem id, ullamcorper sem. Praesent sagittis purus vitae elementum auctor. Aliquam erat volutpat.
+
+Aenean dictum, lorem nec feugiat vestibulum, nisl libero vehicula tortor, at volutpat justo augue eget lorem. Aenean sed tempus urna. Ut at massa orci. Donec bibendum eros sed diam bibendum, nec viverra massa tincidunt. Suspendisse in feugiat est. Praesent vel ullamcorper mauris. Donec vel erat ac orci cursus tempus a dictum massa. Curabitur dictum tortor quis magna dignissim ornare. Mauris eget diam placerat, vulputate eros vel, dignissim arcu.
+
+Mauris consequat tempus vestibulum. Suspendisse molestie facilisis pellentesque. Aliquam porttitor eros sapien, sed faucibus diam molestie id. Quisque mattis dolor molestie, tempor ligula sit amet, porta ante. Pellentesque molestie felis eget libero tincidunt, eget accumsan libero mollis. Etiam arcu tellus, aliquam gravida faucibus a, fermentum non eros. Sed et molestie lacus. Sed tempus, risus in convallis dignissim, tortor mi iaculis ante, vitae pretium massa mi sit amet arcu. Aliquam erat volutpat.
+</div>
+<h3 align='center' id='h'>BE A BETA TESTER FOR GTA DAVIET </h3>
+<h5 align='center' class='text-muted'>1.0v</h5>
+
+<div align='center' class='test'><iframe  src="https://trinket.io/embed/python/5037536ed8?outputOnly=true&runOption=run&showInstructions=true" width="80%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+<br>
+<hr>
+<br>
+<div align='center'>
+<iframe align='center' width="560" height="315" src="https://www.youtube.com/embed/HvselWKPhfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js" integrity="sha384-BOsAfwzjNJHrJ8cZidOg56tcQWfp6y72vEJ8xQ9w6Quywb24iOsW913URv1IS4GD" crossorigin="anonymous"></script>
+</div>
+    <!-- Option 2: Separate Popper.js and Bootstrap JS
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js" integrity="sha384-5h4UG+6GOuV9qXh6HqOLwZMY4mnLPraeTrjT5v07o347pj6IkfuoASuGBhfDsp3d" crossorigin="anonymous"></script>
+    -->
+	<!-- Footer -->
+<footer class="page-footer font-small blue">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3 div2" >© 2020 copyright :<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.norfolkchamber.co.uk%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffields%2Fimages%2Fblog-member%2Fdreamstime-beware-514951_0.jpg%3Fitok%3D27ck5I_7&imgrefurl=https%3A%2F%2Fwww.norfolkchamber.co.uk%2Fblog%2Fmember%2Fmarketing-pr%2Fbeware-hand-feeds&tbnid=iXCz8kWJ6SuXIM&vet=12ahUKEwiu2IvVrtrsAhWCVisKHf9gAooQMygGegUIARCOAQ..i&docid=73EtQ8VhteOzsM&w=480&h=384&q=beware&ved=2ahUKEwiu2IvVrtrsAhWCVisKHf9gAooQMygGegUIARCOAQ#imgrc=iXCz8kWJ6SuXIM&imgdii=wkpG1JZLaUx6mM" target='new'>VERIFY</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+  </body>
+</html>
